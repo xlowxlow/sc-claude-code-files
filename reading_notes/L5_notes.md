@@ -1,5 +1,22 @@
 # Lesson 5: Adding Multiple Features Simultaneously - Using Git Worktrees
 
+## Custom Slash Commands
+
+- Inside the `.claude` folder of your project directory, create a folder `commands`
+- Inside the `commands` folder, create a markdown file: `implement-feature.md`
+- Copy the following to the markdown file: 
+```
+You will be implementing a new feature in this codebase
+
+$ARGUMENTS
+
+IMPORTANT: Only do this for front-end features.
+Once this feature is built, make sure to write the changes you made to file called frontend-changes.md
+Do not ask for permissions to modify this file, assume you can always do it.
+```   
+- Launch again Claude Code, you can now use the command as any other built-in command with Claude Code.
+
+
 ## What are git Worktrees?
 
 Git worktrees allow you to check out multiple branches from the same repository into separate directories. Each worktree represents a copy of your working directory with isolated files but shares the same Git history.
