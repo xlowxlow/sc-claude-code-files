@@ -7,7 +7,7 @@ This note inlcudes the links to the prompts used in the lessons, additional reso
 
 ## Prompts 
 
-Here are the links to the prompts used in each Lesson:
+Here are the links to the lessons' notes and prompts:
 - [Prompts of Lesson 2: Setup & Codebase Understanding](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/reading_notes/L2_notes.md)
 - [Prompts of Lesson 3: Adding Features](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/reading_notes/L3_notes.md)
 - [Prompts of Lesson 4: Testing, Error Debugging and Code Refactoring](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/reading_notes/L4_notes.md)
