@@ -10,7 +10,7 @@ The course covers best practices and tips on how to use agentic coding with Clau
 - e-commerce data analysis (Lesson 7)
 - Figma design mockup (Lesson 8)
 
-The lessons are video-only. You can choose to just watch the videos, but if you'd like to check out the code examples, you can find below the corresponding links. And if you'd like to try the lesson tasks, you would need to install Claude Code and use it directly in your terminal or within your IDE (for example VS Code which is the IDE used in this course). Each lesson is followed by a reading note that includes the prompts used, a summary of Claude Code's features covered in the lesson and some additional notes.     
+The lessons are video-only. You can choose to just watch the videos, but if you'd like to check out the code examples, you can find below the corresponding links. And if you'd like to try the lessons' tasks, you would need to install Claude Code and use it directly in your terminal or within your IDE (for example VS Code which is the IDE used in this course). Each lesson is followed by a reading note that includes the prompts used, a summary of Claude Code's features covered in the lesson and some additional notes.     
 
 ## Course Outline
 
@@ -70,7 +70,7 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
 ## Course Activities - Cost Visibility
 
 If you'd like to install Claude Code to try the lessons:
-- you need to have a Pro (`$20`/month) or Max (`$100`/month) [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lesson activities, but it doesn't include Opus. 
+- you can have a Pro (`$20`/month) or Max (`$100`/month) [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lessons' activities, but it doesn't include Opus. 
 - Or, you can be billed based on API usage (if you just use sonnet for all the lessons' activities, the total cost can be between `$12` and `$20`). In a given session, you can monitor the cost using the `/cost` command.
 
 

@@ -1,6 +1,6 @@
 # Lesson 2: Setup & Codebase Understanding
 
-## How to Run the Application?
+## How to Run the RAG Chatbot Application?
 - Fork this [repo](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase.git)
 - Clone the forked repo to your local machine
 - Follow the instructions in the [README.md file](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase/blob/main/README.md):
@@ -671,5 +671,5 @@ Based on the codebase, here are the ways to run the application:
 | `ESC` | interrupt Claude to redirect or correct it |
 | `ESC ESC` | rewind the conversation to an earlier point in time |
 
-You can use regular bash command within Claude Code, but you need to start the command with `!` (for example: `!pwd`). Type `exit` to quit Claude Code. 
+You can use regular bash command within Claude Code, but you need to start the command with `!` (for example: `!pwd`). You can type `exit` to quit Claude Code. 
 

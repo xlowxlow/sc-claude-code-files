@@ -2,7 +2,7 @@
 
 ## Figma Design
 
-Here's the [Figma design mockup](link) that you can open with [Figma desktop app](https://www.figma.com/downloads/). 
+Here's the [Figma design mockup](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/key-indicators.fig) that you can open with [Figma desktop app](https://www.figma.com/downloads/). 
 
 In the terminal, initialize your `next.js` application using this command:
 `npx create-next-app@latest .`

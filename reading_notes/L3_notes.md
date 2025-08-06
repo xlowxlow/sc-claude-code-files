@@ -1,11 +1,10 @@
-# Lesson 3: Adding Feature
+# Lesson 3: Adding Features
 
 ## Prompt Used for each feature
 
 ### Feature 1 - Embed links in the source citations
 
-For each response, the chatbot returns the lesson that it used to answer the query. 
-The vector store has two collections: one for the lesson chunks and another for the course metadata, which includes a link to each lesson. So assume you want to embed the links of the returned sources in the UI and you want Claude Code to help with that:
+For each response, the chatbot returns the lesson that it used to answer the query. The vector store has two collections: one for the lesson chunks and another for the course metadata, which includes a link to each lesson. So assume you want to embed the links of the returned sources in the UI and you want Claude Code to help with that:
 
 Here's a sample prompt (used with plan mode):
  ```
