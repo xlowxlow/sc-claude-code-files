@@ -9,7 +9,7 @@
 2. Install Claude Code using this command in your terminal:
     `npm install -g @anthropic-ai/claude-code`
 
-3. If you run into installation issues or permission issue, check this [troubleshooting guide](https://docs.anthropic.com/en/docs/claude-code/troubleshooting#linux-and-mac-installation-issues%3A-permission-or-command-not-found-errors).
+3. If you run into installation issues or permission issues, check this [troubleshooting guide](https://docs.anthropic.com/en/docs/claude-code/troubleshooting#linux-and-mac-installation-issues%3A-permission-or-command-not-found-errors).
 
 4. Once you have Claude Code installed, you can:
    - launch it from your terminal: navigate to your project folder & then type `claude`

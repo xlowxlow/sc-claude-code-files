@@ -1,6 +1,8 @@
 # Course Introduction
 
-Welcome to "Claude Code: A highly Agentic Coding Assistant"! Before you get started with the course, you are encouraged to read this note so you can get an idea about the course outline and how to best navigate this course.    
+Welcome to "Claude Code: A highly Agentic Coding Assistant"! Before you get started with the course, you are encouraged to read this note so you can get an idea about the course outline and how to best navigate this course. 
+
+**Note**: To mark this reading item as complete, make sure to scroll down to the end and click on "Mark as Complete".
 
 ## Course Format
 
@@ -16,35 +18,35 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
 
 - **Lesson 1: What is Claude Code?**
 
-    - Reading Notes 1 : Installing Claude Code
+    - Notes 1 : Installing Claude Code
 
 - **Lesson 2: Setup & Codebase Understanding**
 
-    - Reading Notes 2 : Prompts & Summaries
+    - Notes 2 : Summaries & Prompts 
 
 - **Lesson 3: Adding Features**
  
-    - Reading Notes 3 : Prompts & Summaries
+    - Notes 3 : Summaries & Prompts 
 
 - **Lesson 4: Testing, Error Debugging and Code Refactoring**
 
-    - Reading Notes 4 : Prompts & Summaries
+    - Notes 4 : Summaries & Prompts 
 
 - **Lesson 5: Adding Multiple Features Simultaneously**
 
-    - Reading Notes 5 : Prompts & Summaries
+    - Notes 5 : Summaries & Prompts 
 
 - **Lesson 6: Exploring Github Integration & Hooks**
 
-    - Reading Notes 6 : Prompts & Summaries
+    - Notes 6 : Prompts & Summaries
 
 - **Lesson 7: Refactoring a Jupyter Notebook & Creating a Dashboard**
 
-    - Reading Notes 7 : Prompts & Summaries
+    - Notes 7 : Summaries & Prompts 
 
 - **Lesson 8: Creating Web App based on a Figma Mockup**
 
-    - Reading Notes 8 : Prompts & Summaries
+    - Notes 8 : Summaries & Prompts 
 
 -  **Conclusion**
 
@@ -61,11 +63,11 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
 2. E-commerce data analysis (Lesson 7)
     - Here are [the lesson files](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main/lesson7_files).
     - It includes the data, the starting and refactored notebooks, and the dashboard file.
-    
+
     Feel free to fork this repo, and try lesson 7 tasks using the starting notebook and the data folder.
 
 3. Figma design mockup (Lesson 8)
-   - Here's [the link](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/key-indicators.fig) to the Figma mockup design.
+   - Here's [the link](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/key-indicators.fig) to the Figma mockup design (which you can open with [Figma Desktop App](https://help.figma.com/hc/en-us/articles/5601429983767-Guide-to-the-Figma-desktop-app)).
    - In lesson 8, you will build a Next.js app based on this mockup.
    - Here's the [link](https://github.com/https-deeplearning-ai/FRED-dashboard.git) to the repo of the app we got during filming.    
 
