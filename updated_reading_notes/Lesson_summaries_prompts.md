@@ -1,6 +1,6 @@
 # Prompts & Summaries of Lessons
 
-You can find in this note the links to the prompts used in the lessons, additional resources and a summary of Claude Code features. 
+This note inlcudes the links to the prompts used in the lessons, additional resources and a summary of Claude Code features. 
 
 **Note**: To mark this reading item as complete, make sure to scroll down to the end and click on "Mark as Complete".
 
