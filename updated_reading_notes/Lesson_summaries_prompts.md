@@ -12,6 +12,8 @@ Here's a summary of Claude Code features and the prompts used in each Lesson.
 - [Prompts of Lesson 6: References to GitHub Integration & Hooks](#prompts-of-lesson-6-references-to-github-integration--hooks)
 - [Prompts of Lesson 7: Refactoring a Jupyter Notebook & Creating a Dashboard](#prompts-of-lesson-7-refactoring-a-jupyter-notebook--creating-a-dashboard)
 - [Prompts of Lesson 8: Creating Web App based on a Figma Mockup](#prompts-of-lesson-8-creating-web-app-based-on-a-figma-mockup)
+- [Additional Resources](#additional-resources)
+
 
 
 ## Summary of Claude Code Features
@@ -1103,3 +1105,15 @@ You can configure it for Claude Code using:
 Or this command:
 
 `claude mcp add-json "Framelink-Figma-MCP" '{"command": "npx", "args": ["-y", "figma-developer-mcp", "--figma-api-key=YOUR-KEY","--stdio"]}'`
+
+
+## Additional Resources
+
+To learn more about these features as well as other features, you can check: 
+- [Claude Code Documentation](https://docs.anthropic.com/en/docs/claude-code/overview)
+- [Claude Code Common Workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
+- [Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices)
+- [Claude Code Use Cases](https://www.anthropic.com/news/how-anthropic-teams-use-claude-code)
+
+There's also a great course on Anthropic Academy that you can check out to see more examples with Claude Code:
+- [Claude Code in Action](https://anthropic.skilljar.com/claude-code-in-action)
