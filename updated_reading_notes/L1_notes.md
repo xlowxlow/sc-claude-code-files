@@ -49,8 +49,8 @@ Here are the links to the coding examples covered in the lessons:
 You can find the prompts used in each lesson and a summary of Claude Code features in the optional reading item at the end of the course. You can also find them in this [repo](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main/reading_notes).
 
 
-## Cost Visibility
+## Claude Code Costs
 
 If you'd like to install Claude Code to try the lessons:
-- you can have a Pro (`$20`/month) or Max (`$100`/month) [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lessons' activities, but it doesn't include Opus. 
-- Or, you can be billed based on API usage (if you just use sonnet for all the lessons' activities, the total cost for all lessons can be between `$12` and `$20`). In a given session, you can monitor the cost using the `/cost` command.
+- you can use the Pro or Max [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lessons' activities. 
+- Or, you can be billed based on API usage. For a given session, you can see the cost using the `/cost` command.
