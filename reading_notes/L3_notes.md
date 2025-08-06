@@ -40,7 +40,9 @@ Here's the followup request:
 ```
 Using the playwright MCP server, visit 127.0.0.1:8000 and view the '+ New Chat' button. I want that button to look the same as the other links below for Courses and Try Asking. Make sure this is left aligned and that the border is removed.
 ```
-[add allow permission]
+*Side note*: By default, Claude Code will ask you for your permission to use the "take a screenshot tool" of playwright. You can choose to always allow it when asked by Claude Code or you can manually configure this setting: type `/permissions` command -> Add a new rule (make sure that 'Allow' is highlighted) -> then you specify the full name of the tool. To type the full name of the screenshot tool, in Claude Code terminal, you can type `/mcp` -> choose your MCP server (in this case playwright) -> view tools -> 14. Take a screenshot -> you'll see the full name "mcp__playwright__browser_take_screenshot".
+
+
 
 ### Feature 3 - Adding a tool to the chatbot
 
