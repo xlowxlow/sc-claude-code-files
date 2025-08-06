@@ -71,7 +71,7 @@ In @backend/search_tools.py, add a second tool alongside the existing content-re
 
 | Shortcuts | Description |
 |---------|-------------|
-| `shit`+`tab` | switch between planning and auto-accept mode |
+| `shift`+`tab` | switch between planning and auto-accept mode |
 | take a screenshot|  `cmd`+ `shift`+ `ctrl` + `4` (Mac) or `Win` + `Shift` + `S` (Windows) |
 |paste a screenshot |  `Ctrl` + `V` (might not work on Windows)|
 

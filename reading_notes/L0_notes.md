@@ -71,7 +71,7 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
 
 If you'd like to install Claude Code to try the lessons:
 - you can have a Pro (`$20`/month) or Max (`$100`/month) [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lessons' activities, but it doesn't include Opus. 
-- Or, you can be billed based on API usage (if you just use sonnet for all the lessons' activities, the total cost can be between `$12` and `$20`). In a given session, you can monitor the cost using the `/cost` command.
+- Or, you can be billed based on API usage (if you just use sonnet for all the lessons' activities, the total cost for all lessons can be between `$12` and `$20`). In a given session, you can monitor the cost using the `/cost` command.
 
 
 ## Course Prerequisites
