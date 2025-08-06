@@ -1,6 +1,6 @@
 # Course Notes
 
-You can find in this note the instructions on how to install Claude Code, and the links to the coding examples and prompts used in the lessons.
+You can find here the instructions on how to install Claude Code, and the links to the coding examples and prompts used in the lessons.
 
 **Note**: To mark this reading item as complete, make sure to scroll down to the end and click on "Mark as Complete".
 
