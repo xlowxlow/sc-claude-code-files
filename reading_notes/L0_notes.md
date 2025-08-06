@@ -55,11 +55,13 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
     - Here's [the repo](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase.git) of the starting codebase used in lesson 2.
     - Lessons 3-6 add features to the starting codebase.
     - Here's [the state](https://github.com/https-deeplearning-ai/ragchatbot-codebase.git) of the codebase after lesson 5.
+
     Feel free to fork the starting codebase and follow the lessons' activities.
 
 2. E-commerce data analysis (Lesson 7)
     - Here are [the lesson files](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main/lesson7_files).
     - It includes the data, the starting and refactored notebooks, and the dashboard file.
+    
     Feel free to fork this repo, and try lesson 7 tasks using the starting notebook and the data folder.
 
 3. Figma design mockup (Lesson 8)
