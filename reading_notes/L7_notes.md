@@ -57,9 +57,7 @@ The notebook shows the computation of metrics for a specific date range (entire 
 - Maintainable structure that other analysts can easily understand and extend
 - Maintain all existing analyses while improving the quality, structure, and usability of the notebook.
 - Do not assume any business thresholds.
-  
-**Notes**:
-- the filtering was not done correctly -> had to adjust it
+
 ```
 
 ## Prompt for Converting to Dashboards (Streamlit)
