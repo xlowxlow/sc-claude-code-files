@@ -1,5 +1,7 @@
 # Course Notes
 
+You can find in this note the instructions on how to install Claude Code, and the links to the coding examples and prompts used in the lessons.
+
 **Note**: To mark this reading item as complete, make sure to scroll down to the end and click on "Mark as Complete".
 
 ## Claude Code Installation
@@ -46,10 +48,10 @@ Here are the links to the coding examples covered in the lessons:
 
 ## Prompts and Summaries of Lessons
 
-You can find the prompts used in each lesson and a summary of Claude Code features in the optional reading item at the end of the course. You can also find them in this [repo](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main/reading_notes).
+You can find the prompts used in each lesson and a summary of Claude Code features in the optional reading item at the end of the course (Prompts & Summaries of Lessons). You can also find them in this [repo](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main/reading_notes).
 
 
-## Claude Code Costs
+## Claude Code Cost
 
 If you'd like to install Claude Code to try the lessons:
 - you can use the Pro or Max [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lessons' activities. 
