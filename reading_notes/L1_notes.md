@@ -21,4 +21,4 @@
 
 # Visualization HTML File
 
-Here's [the html file]() of the visualization generated in lesson 1. 
+Here's [the html file](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/visualization.html) of the visualization generated in lesson 1. 

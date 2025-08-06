@@ -58,12 +58,12 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
     Feel free to fork the starting codebase and follow the lessons' activities.
 
 2. E-commerce data analysis (Lesson 7)
-    - Here are [the lesson files](lesson7_files).
+    - Here are [the lesson files](https://github.com/https-deeplearning-ai/sc-claude-code-files/tree/main/lesson7_files).
     - It includes the data, the starting and refactored notebooks, and the dashboard file.
     Feel free to fork this repo, and try lesson 7 tasks using the starting notebook and the data folder.
 
 3. Figma design mockup (Lesson 8)
-   - Here's [the link](additional_files/key-indicators.fig) to the Figma mockup design.
+   - Here's [the link](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/key-indicators.fig) to the Figma mockup design.
    - In lesson 8, you will build a Next.js app based on this mockup.
    - Here's the [link](https://github.com/https-deeplearning-ai/FRED-dashboard.git) to the repo of the app we got during filming.    
 

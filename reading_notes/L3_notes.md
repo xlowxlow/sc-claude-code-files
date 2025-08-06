@@ -38,13 +38,13 @@ Configuration of [Playwright MCP server](https://github.com/microsoft/playwright
 
 Here's the followup request:
 ```
-Using the playwwright MCP server, visit 127.0.0.1:8000 and view the '+ New Chat' button. I want that button to look the same as the other links below for Courses and Try Asking. Make sure this is left aligned and that the border is removed.
+Using the playwright MCP server, visit 127.0.0.1:8000 and view the '+ New Chat' button. I want that button to look the same as the other links below for Courses and Try Asking. Make sure this is left aligned and that the border is removed.
 ```
-[add allow permision]
+[add allow permission]
 
 ### Feature 3 - Adding a tool to the chatbot
 
-If you check the []() in the starting codebase, you will see that there is one tool defined for the RAG chatbot. Assume you now want to define another tool for the RAG chatbot to handle outline-related questions. So instead of relying on the content received to answer outline questions, you want the exact outline to be returned (title of each lesson, course link, course title). The course_metadata collection in the vector database has this info. You can ask Claude Code to implement this tool for you:
+If you check the [search_tools.py](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase/blob/main/backend/search_tools.py) in the starting codebase, you will see that there is one tool defined for the RAG chatbot. Assume you now want to define another tool for the RAG chatbot to handle outline-related questions. So instead of relying on the content received to answer outline questions, you want the exact outline to be returned (title of each lesson, course link, course title). The course_metadata collection in the vector database has this info. You can ask Claude Code to implement this tool for you:
 
 Here's the prompt used:
 
@@ -71,7 +71,7 @@ In @backend/search_tools.py, add a second tool alongside the existing content-re
 | Shortcuts | Description |
 |---------|-------------|
 | `shit`+`tab` | switch between planning and auto-accept mode |
-| take a screenshot|  `cmd`+ `shift`+ `4` (Mac) or `Win` + `Shift` + `S` (Windows) |
-|paste a screenshot|  `Ctrl` + `V`|
+| take a screenshot|  `cmd`+ `shift`+ `ctrl` + `4` (Mac) or `Win` + `Shift` + `S` (Windows) |
+|paste a screenshot |  `Ctrl` + `V` (might not work on Windows)|
 
 

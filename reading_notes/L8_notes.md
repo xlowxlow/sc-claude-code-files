@@ -13,11 +13,11 @@ Note: The official MCP server provided by Figma requires [Dev or Full seat](http
 
 ### Enable MCP Server
 
-- Open the Figma design in Figma desktop app. 
+- Open the [Figma design](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/key-indicators.fig) in Figma desktop app. 
 - In the upper-left corner, open the Figma menu.
 - Under Preferences, select Enable Dev Mode MCP Server (as shown [here](https://help.figma.com/hc/article_attachments/33880427925271)).
  
-You should see a confirmation message at the bottom of the screen letting you know the server is enabled and running locally at http://127.0.0.1:3845/mcp. 
+You should see a confirmation message at the bottom of the screen letting you know the server is enabled and running locally at `http://127.0.0.1:3845/mcp` (remote server running locally using http transport). 
 
 ### Configure the MCP Server for Claude Code
 
@@ -25,12 +25,12 @@ You should see a confirmation message at the bottom of the screen letting you kn
 
 - Also add MCP playwright server: `claude mcp add playwright npx @playwright/mcp@latest`.
 
-- Launch Claude Code and verify that you're connected to both MCP servers (usign `/mcp`).
+- Launch Claude Code and verify that you're connected to both MCP servers (using `/mcp`).
 
 
 ## Prompt 
 
-- To copy the Figma design, in Figma desktop select the dsign and then click on `Ctrl`+ `L` or `cmd` + `L`.
+- To copy the Figma design, in Figma desktop select the design and then click on `Ctrl`+ `L` or `cmd` + `L`.
 
 - Here's the prompt:
 
@@ -44,13 +44,13 @@ You should see a confirmation message at the bottom of the screen letting you kn
   populate these charts with real-world data from FRED
   ```
 
-  If you'd like to connect the dashbaord to real data, then you need at get an API key from FRED [here](https://fred.stlouisfed.org/docs/api/api_key.html).
+  If you'd like to connect the dashboard to real data, then you need at get an API key from FRED [here](https://fred.stlouisfed.org/docs/api/api_key.html).
 
 
 
 ## Alternative to Figma Official MCP server - Framelink Figma MCP server 
 
-Here's a [guide](https://www.framelink.ai/docs/quickstart?utm_source=github&utm_medium=referral&utm_campaign=readme) on how how to configure the Framelink Figma MCP server (as well as some [best practices](https://www.framelink.ai/docs/best-practices) for using it)
+Here's a [guide](https://www.framelink.ai/docs/quickstart?utm_source=github&utm_medium=referral&utm_campaign=readme) on how to configure the Framelink Figma MCP server (as well as some [best practices](https://www.framelink.ai/docs/best-practices) for using it)
 
 You can configure it for Claude Code using: 
 
