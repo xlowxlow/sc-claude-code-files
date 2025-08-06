@@ -19,6 +19,6 @@
     
     For more info, check [Claude Code IDE Integrations](https://docs.anthropic.com/en/docs/claude-code/ide-integrations).
 
-# Visualization HTML File
+# Visualization File
 
 Here's [the html file](https://github.com/https-deeplearning-ai/sc-claude-code-files/blob/main/additional_files/visualization.html) of the visualization generated in lesson 1. 

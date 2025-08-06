@@ -672,3 +672,4 @@ Based on the codebase, here are the ways to run the application:
 | `ESC ESC` | rewind the conversation to an earlier point in time |
 
 You can use regular bash command within Claude Code, but you need to start the command with `!` (for example: `!pwd`). Type `exit` to quit Claude Code. 
+

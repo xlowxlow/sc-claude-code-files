@@ -52,7 +52,7 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
 ## Link to Course Codebase Examples
 
 1. Codebase for a RAG chatbot (Lessons 2-6)
-    - Here's [the repo](ttps://github.com/https-deeplearning-ai/starting-ragchatbot-codebase.git) of the starting codebase used in lesson 2.
+    - Here's [the repo](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase.git) of the starting codebase used in lesson 2.
     - Lessons 3-6 add features to the starting codebase.
     - Here's [the state](https://github.com/https-deeplearning-ai/ragchatbot-codebase.git) of the codebase after lesson 5.
     Feel free to fork the starting codebase and follow the lessons' activities.
@@ -70,8 +70,8 @@ The lessons are video-only. You can choose to just watch the videos, but if you'
 ## Course Activities - Cost Visibility
 
 If you'd like to install Claude Code to try the lessons:
-- you need to have a Pro ($20/month) or Max ($100/month) [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lesson activities, but it doesn't include Opus. 
-- Or, you can be billed based on API usage (if you just use sonnet for all the lessons' activities, the total cost can be between $12 and $20). In a given session, you can monitor the cost using the `/cost` command.
+- you need to have a Pro (`$20`/month) or Max (`$100`/month) [subscription](https://www.anthropic.com/claude-code#:~:text=Pro,Sign%20up). The pro subscription is enough for the lesson activities, but it doesn't include Opus. 
+- Or, you can be billed based on API usage (if you just use sonnet for all the lessons' activities, the total cost can be between `$12` and `$20`). In a given session, you can monitor the cost using the `/cost` command.
 
 
 ## Course Prerequisites
